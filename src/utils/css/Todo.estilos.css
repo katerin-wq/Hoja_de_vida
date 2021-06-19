@@ -1,0 +1,94 @@
+@font-face {
+    font-family: happylucky;
+    src: url(../fonts/happylucky.ttf);
+}
+@font-face{
+    font-family: kghappy;
+    src: url(../fonts/kghappy.ttf);
+}
+@font-face {
+    font-family: kgprimary;
+    src: url(../fonts/kgprimary.ttf);
+}
+h1{
+    font-family: kghappy;
+    font-size: 100%;
+}
+h3{
+    font-family: kghappy;
+}
+h5{
+    font-size: 50%;
+    font-family: kgprimary;
+}
+.Container_title{
+    display: flex;
+    background-color:#E4C9AC ;
+    padding-top: 2%;
+    padding-left: 28%;
+}
+
+#principalTitle{
+    display: contents;
+    font-size: 20px;
+}
+.Container_Cabecera{
+    display: flex;
+    background-color: #E4C9AC ;
+    padding-left: 10%;
+    color: black;
+}
+.Container_Cabecera img{
+    display: flex;
+    height: 90%;
+    width: 45%;
+}
+.ContainerText{   
+    font-size: 500%;
+    font-family: serif;
+    text-align: center;
+    padding-right: 5%;
+    padding-top: 10%;
+}
+.Container_Footer{
+    display: flex;
+    margin: 20px 5px;
+}
+.Container_Footer img{
+    display: flex;
+    height: 50%;
+    width: 50%;
+}
+.menu{
+    margin-left: -10%;
+}
+
+#btn-menu{
+    display: none;
+}
+  
+header label:hover{
+    cursor: pointer;
+}
+header label{
+    border-right: 2px solid #000;
+}
+  
+  .menu ul{
+    list-style: none;
+    display: flex;
+  }
+  .menu li{
+    border-right: 3px solid #000;
+  }  
+  .menu li a{
+    display: block;
+    padding: 10px 30px;
+    color: #000;
+    text-decoration: none;
+    font-family: kghappy;
+  }  
+  .menu li:hover .submenu{
+  visibility: visible;
+  }
+  

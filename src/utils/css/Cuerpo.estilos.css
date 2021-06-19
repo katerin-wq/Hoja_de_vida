@@ -1,0 +1,22 @@
+@font-face{
+    font-family: kghappy;
+    src: url(../fonts/kghappy.ttf);
+}
+p{
+    font-family: kghappy;
+    text-align: center;
+}
+.Titulo{
+    background-color: #E9D7C1;
+    color: black;
+    font-family: kghappy;
+    font-size: 400%;
+}
+.Contenido{
+    background-color: #E9D7C1;
+    color: black;
+    padding-left: 15%;
+}
+.Contenido img{
+    padding-left: 10%;
+}

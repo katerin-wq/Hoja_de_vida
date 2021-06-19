@@ -1,0 +1,51 @@
+@font-face {
+    font-family: happylucky;
+    src: url(../fonts/happylucky.ttf);
+}
+@font-face{
+    font-family: kghappy;
+    src: url(../fonts/kghappy.ttf);
+}
+@font-face {
+    font-family: kgprimary;
+    src: url(../fonts/kgprimary.ttf);
+}
+body{
+    background-color: #E4C9AC;
+    color: black;
+    font-family: kghappy;
+    margin: 0%;
+    padding: 0%;
+}
+.ContainerText1 img{
+    display: table-column;
+    width: 65%;
+    height: auto;
+    margin-left: 10%;
+}
+.Formulario{
+        display: table-column;
+        margin-right: 15%;
+        margin-top: 2%;
+        text-decoration: none;
+}
+.redes{
+    text-decoration: none;
+    display: flex;
+    margin-top: 10%;
+    margin-left: -230%;
+}
+.redes img{
+    width: 3%;
+    height: 10%;
+}
+.redes2{
+    text-decoration: none;
+    display: flex;
+    font-family: kghappy;
+    margin-left: -230%;
+}
+.redes2 img{
+    width: 3%;
+    height: auto
+}
