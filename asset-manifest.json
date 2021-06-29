@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/katerin-wq/Hoja_de_vida.git/static/css/main.da33bbbf.chunk.css",
+    "main.js": "/katerin-wq/Hoja_de_vida.git/static/js/main.294c3227.chunk.js",
+    "main.js.map": "/katerin-wq/Hoja_de_vida.git/static/js/main.294c3227.chunk.js.map",
+    "runtime-main.js": "/katerin-wq/Hoja_de_vida.git/static/js/runtime-main.56455702.js",
+    "runtime-main.js.map": "/katerin-wq/Hoja_de_vida.git/static/js/runtime-main.56455702.js.map",
+    "static/js/2.1ba3d098.chunk.js": "/katerin-wq/Hoja_de_vida.git/static/js/2.1ba3d098.chunk.js",
+    "static/js/2.1ba3d098.chunk.js.map": "/katerin-wq/Hoja_de_vida.git/static/js/2.1ba3d098.chunk.js.map",
+    "index.html": "/katerin-wq/Hoja_de_vida.git/index.html",
+    "static/css/main.da33bbbf.chunk.css.map": "/katerin-wq/Hoja_de_vida.git/static/css/main.da33bbbf.chunk.css.map",
+    "static/js/2.1ba3d098.chunk.js.LICENSE.txt": "/katerin-wq/Hoja_de_vida.git/static/js/2.1ba3d098.chunk.js.LICENSE.txt",
+    "static/media/barraCss.fafd82b7.PNG": "/katerin-wq/Hoja_de_vida.git/static/media/barraCss.fafd82b7.PNG",
+    "static/media/barraHTML.90b42306.PNG": "/katerin-wq/Hoja_de_vida.git/static/media/barraHTML.90b42306.PNG",
+    "static/media/barraJs.67e41620.PNG": "/katerin-wq/Hoja_de_vida.git/static/media/barraJs.67e41620.PNG",
+    "static/media/Footer.estilos.css": "/katerin-wq/Hoja_de_vida.git/static/media/kgprimary.f0fd3f0b.ttf",
+    "static/media/iconoWhatsApp.8f84e8ce.png": "/katerin-wq/Hoja_de_vida.git/static/media/iconoWhatsApp.8f84e8ce.png",
+    "static/media/image2.fff729f1.png": "/katerin-wq/Hoja_de_vida.git/static/media/image2.fff729f1.png",
+    "static/media/imagenfinal.a5261a22.png": "/katerin-wq/Hoja_de_vida.git/static/media/imagenfinal.a5261a22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56455702.js",
+    "static/js/2.1ba3d098.chunk.js",
+    "static/css/main.da33bbbf.chunk.css",
+    "static/js/main.294c3227.chunk.js"
+  ]
+}
